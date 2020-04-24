@@ -1,0 +1,41 @@
+{
+   "response_code":0,
+   "results":[
+      {
+         "category":"Genel",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Ben nereliyim?",
+         "correct_answer":"Giresun",
+         "incorrect_answers":[
+            "Erzurum",
+            "İzmir",
+            "Konya"
+         ]
+      },
+      {
+         "category":"Genel",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Benim adım ne?",
+         "correct_answer":"Seher",
+         "incorrect_answers":[
+            "Zerrin",
+            "Senem",
+            "Zehra"
+         ]
+      },
+      {
+         "category":"Genel",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Mesleğim ne?",
+         "correct_answer":"Bilgisayar Mühendisi",
+         "incorrect_answers":[
+            "Doktor",
+            "Hostes",
+            "Mimar"
+         ]
+      }
+   ]
+}
