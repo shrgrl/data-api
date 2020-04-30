@@ -1,125 +1,124 @@
 {
-   "response_code":0,
-   "results":[
-      {
-         "category":"Genel",
-         "type":"multiple",
-         "difficulty":"easy",
-         "question":"Ben nereliyim?",
-         "correct_answer":"Giresun",
-         "incorrect_answers":[
-            "Erzurum",
-            "İzmir",
-            "Konya"
-         ]
-      },
-      {
-         "category":"Genel",
-         "type":"multiple",
-         "difficulty":"easy",
-         "question":"Benim adım ne?",
-         "correct_answer":"Seher",
-         "incorrect_answers":[
-            "Zerrin",
-            "Senem",
-            "Zehra"
-         ]
-      },
-      {
-         "category":"Genel",
-         "type":"multiple",
-         "difficulty":"easy",
-         "question":"Mesleğim ne?",
-         "correct_answer":"Bilgisayar Mühendisi",
-         "incorrect_answers":[
-            "Doktor",
-            "Hostes",
-            "Mimar"
-         ]
-      },
-	  {
-         "category":"Genel",
-         "type":"multiple",
-         "difficulty":"easy",
-         "question":"Dünyanın uydusu nedir?",
-         "correct_answer":"Ay",
-         "incorrect_answers":[
-            "Türkiye",
-            "Güneş",
-            "Abdullah"
-         ]
-      },
-      {
-         "category":"Genel",
-         "type":"multiple",
-         "difficulty":"easy",
-         "question":"En güçlü ülke?",
-         "correct_answer":"Türkiye",
-         "incorrect_answers":[
-            "ABD",
-            "Çin",
-            "Yunanistan"
-         ]
-      },
-	  {
-         "category":"Genel",
-         "type":"multiple",
-         "difficulty":"easy",
-         "question":"En güzel şehir?",
-         "correct_answer":"Giresun",
-         "incorrect_answers":[
-            "NY",
-            "Paris",
-            "Prag"
-         ]
-      },
-      {
-         "category":"Genel",
-         "type":"multiple",
-         "difficulty":"easy",
-         "question":"En iyi kadın kim?",
-         "correct_answer":"Seher",
-         "incorrect_answers":[
-            "Ayşe",
-            "Fatma",
-            "Hayriye"
-         ]
-      },
-	        {
-         "category":"Genel",
-         "type":"multiple",
-         "difficulty":"easy",
-         "question":"En iyi meslek?",
-         "correct_answer":"Bilgisayar Mühendisliği",
-         "incorrect_answers":[
-            "Doktorluk",
-            "Öğretmenlik",
-            "Oyunculuk"
-         ]
-      },
-	  {
-         "category":"Genel",
-         "type":"multiple",
-         "difficulty":"easy",
-         "question":"En güzel ses?",
-         "correct_answer":"Onun sesi",
-         "incorrect_answers":[
-            "Operacı",
-            "Gitar",
-            "Keman"
-         ]
-      },
-      {
-         "category":"Genel",
-         "type":"multiple",
-         "difficulty":"easy",
-         "question":"En şanslı insan?",
-         "correct_answer":"Abdullah",
-         "incorrect_answers":[
-            "Seher",
-            "Fatma",
-            "Hayriye"
-         ]
-      }
-   ]
+  "response_code": 0,
+  "results": [{
+      "category": "Genel",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "LAEEVZUEN harflerinin düzenli hali ne temsil eder?",
+      "correct_answer": "Ülke",
+      "incorrect_answers": [
+        "Hayvan",
+        "Bitki",
+        "Yiyecek"
+      ]
+    },
+    {
+      "category": "Genel",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Hangisi diğerlerinden farklı bir tasarıma sahiptir?",
+      "correct_answer": "E",
+      "incorrect_answers": [
+        "A",
+        "Z",
+        "F"
+      ]
+    },
+    {
+      "category": "Genel",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "1-2-5-10-13-26-... serisi nasıl devam eder?",
+      "correct_answer": "29",
+      "incorrect_answers": [
+        "27",
+        "31",
+        "52"
+      ]
+    },
+    {
+      "category": "Genel",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Tersten okunuşu altı bin dokuz yüz dört olan sayının karekökü hangisidir?",
+      "correct_answer": "64",
+      "incorrect_answers": [
+        "34",
+        "44",
+        "54"
+      ]
+    },
+    {
+      "category": "Genel",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "16-?-100-169 soru işareti yerine ne gelmelidir?",
+      "correct_answer": "49",
+      "incorrect_answers": [
+        "25",
+        "36",
+        "64"
+      ]
+    },
+    {
+      "category": "Genel",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Bir odada ben, sen, o, biz, siz, onlar vardır. Bu odada en az kaç kişi vardır?",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "6",
+        "9",
+        "16"
+      ]
+    },
+    {
+      "category": "Genel",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Doktorunuz size 3 hap verir ve bunları yarımşar saat arayla almanızı tavsiye ederse, ilaçların tamamını bitirmeniz ne kadar sürer?",
+      "correct_answer": "Bir Saat",
+      "incorrect_answers": [
+        "Yarım Saat",
+        "Bir Buçuk Saat",
+        "İki Saat"
+      ]
+    },
+    {
+      "category": "Genel",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Bir çiftçinin 17 koyunu vardı. Sürüde salgın hastalık oldu, dokuzu ağır hastalandı, diğerleri öldü. Çiftçinin kaç koyunu var?",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "8",
+        "0",
+        "12"
+      ]
+    },
+    {
+      "category": "Genel",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Dünyanın uydusu nedir?",
+      "correct_answer": "Ay",
+      "incorrect_answers": [
+        "Güneş",
+        "Kuzey Yıldızı",
+        "Mars"
+      ]
+    },
+    {
+      "category": "Genel",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Merve'nin babası benim babamın tek oğludur diyen kişi Merve'nin nesi olabilir?",
+      "correct_answer": "Halası",
+      "incorrect_answers": [
+        "Amcası",
+        "Dayısı",
+        "Teyzesi"
+      ]
+    }
+  ]
 }
