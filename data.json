@@ -76,7 +76,7 @@
       "category": "Genel",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Doktorunuz size 3 hap verir ve bunları yarımşar saat arayla almanızı tavsiye ederse, ilaçların tamamını bitirmeniz ne kadar sürer?",
+      "question": "Yarımşar saat arayla almanız gereken 3 hapın tamamı kaç saatte biter?",
       "correct_answer": "Bir Saat",
       "incorrect_answers": [
         "Yarım Saat",
@@ -88,7 +88,7 @@
       "category": "Genel",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Bir çiftçinin 17 koyunu vardı. Sürüde salgın hastalık oldu, dokuzu ağır hastalandı, diğerleri öldü. Çiftçinin kaç koyunu var?",
+      "question": "Bir çiftçinin 17 koyunundan 9'u hastalanıp diğerleri öldü. Kaç koyunu kaldı?",
       "correct_answer": "9",
       "incorrect_answers": [
         "8",
@@ -100,12 +100,12 @@
       "category": "Genel",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Dünyanın uydusu nedir?",
-      "correct_answer": "Ay",
+      "question": "Faruk'un babasının 4 oğlundan 3'ünün adı Fefe, Fifi, Föfö ise 4.'nünkü nedir?",
+      "correct_answer": "Faruk",
       "incorrect_answers": [
-        "Güneş",
-        "Kuzey Yıldızı",
-        "Mars"
+        "Fufu",
+        "Fikret",
+        "Fifö"
       ]
     },
     {
